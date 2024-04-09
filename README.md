@@ -73,7 +73,7 @@
 
 ### [✍️기능 명세](https://www.notion.so/ca98be73f35545fd8779a531f6614571?pvs=21)
 
-### [💻API](https://www.notion.so/API-0d7f33c4058a423cb3354c4d2abc9e89?pvs=21)
+### [💻API](https://shine-nutmeg-abd.notion.site/GuessMe-API-2e547c7d9b5443eea7a308b6dd187173)
 
 ---
 
